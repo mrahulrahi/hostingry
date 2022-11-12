@@ -1,9 +1,7 @@
 #product-overview {
-  background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent),
-    url("images/cloud-hosting.png") center/cover no-repeat border-box,
-    #424242;
+  background: url("images/cloud-hosting.png") center/cover no-repeat border-box, white;
   width: 100vw;
-  height: 20vh;
+  height: auto;
   position: relative;
 }
 
@@ -24,6 +22,7 @@
 
   #product-overview h1 {
     font-size: 3rem;
+    color: #424242;
   }
 }
 
