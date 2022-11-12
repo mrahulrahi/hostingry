@@ -1,7 +1,5 @@
 #product-overview {
-  background: url("images/cloud-hosting.png") center/cover no-repeat border-box, white;
-  width: 100vw;
-  height: auto;
+  background: url("images/cloud-hosting.png") center/cover no-repeat, white;
   position: relative;
 }
 
