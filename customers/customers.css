@@ -1,3 +1,7 @@
+body {
+  background-color: #c9efc7;
+}
+
 main {
   padding-top: 2.5rem;
 }
@@ -44,7 +48,7 @@ main {
   .testimonial__subtitle {
     margin: 0;
     font-size: 1.1rem;
-    color: #ccc;
+    color: #0e4f1f;
   }
   
   .testimonial__subtitle a {
