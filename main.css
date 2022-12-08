@@ -3,7 +3,7 @@ body {
 } 
 
 #product-overview {
-  background: url("images/cloud-hosting.svg") center/cover no-repeat;
+  background: url("images/background.jpg") center/cover no-repeat;
   position: relative;
 }
 
@@ -19,12 +19,12 @@ body {
 @media (min-width: 40rem) and (min-height: 40rem) {
   #product-overview {
     height: 40vh;
-    background-position: 50% 30%;
+    background-position: 50% 20%;
   }
 
   #product-overview h1 {
     font-size: 3rem;
-    color: #424242;
+    color: #c9efc7;
   }
 }
 
