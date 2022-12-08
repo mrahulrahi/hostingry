@@ -16,11 +16,14 @@ main {
 .signup-title {
     text-align: center;
     font-size: 1.8rem;
-    color: #454545;
+    color: #2ddf5c;
 }
 
 .signup-form {
-    padding: 1rem;
+    padding: 2.5rem;
+    background: #c9efc7dd;
+    border: 4px solid #0e4f1f;
+    border-radius: 10px;
 }
 
 .signup-form label {
@@ -33,6 +36,7 @@ main {
     display: block;
     margin-top: 1rem;
     width: 100%;
+    border-radius: 5px;
 }
 
 /* .signup-form input[type="checkbox"] */

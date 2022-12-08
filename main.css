@@ -18,13 +18,14 @@ body {
 
 @media (min-width: 40rem) and (min-height: 40rem) {
   #product-overview {
-    height: 40vh;
+    height: 60vh;
     background-position: 50% 20%;
   }
 
   #product-overview h1 {
-    font-size: 3rem;
-    color: #c9efc7;
+    font-size: 5rem;
+    color: #454545;
+    text-shadow: 2px 2px 5px #19b84c;
   }
 }
 
